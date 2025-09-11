@@ -1,4 +1,4 @@
-# 📊 Motorola Sales Dashboard
+## 📊 Motorola Sales Dashboard
 
 This project is an **interactive Power BI dashboard** that provides insights into Motorola's sales performance across different cities, brands, and payment methods.  
 It helps track **total sales, quantity, transactions, and customer ratings** with clear visualizations.
@@ -38,4 +38,4 @@ It helps track **total sales, quantity, transactions, and customer ratings** wit
 
 ---
 
-## 📂 Project Structure
+
