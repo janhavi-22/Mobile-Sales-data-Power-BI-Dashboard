@@ -1,17 +1,17 @@
-## 📊 Motorola Sales Dashboard
+##  Motorola Sales Dashboard
 
 This project is an **interactive Power BI dashboard** that provides insights into Motorola's sales performance across different cities, brands, and payment methods.  
 It helps track **total sales, quantity, transactions, and customer ratings** with clear visualizations.
 
 ---
 
-## 🖼️ Dashboard Preview
+##  Dashboard Preview
 ![Motorola Dashboard](Screenshot%202025-09-11%20133158.png)
 
 ---
 
-## 🚀 Features
-- ✅ **Total Sales Overview** – ₹769M across 19K quantities and 4K transactions.  
+##  Features
+-  **Total Sales Overview** – ₹769M across 19K quantities and 4K transactions.  
 - ✅ **Filters** – Analyze by month, mobile model, payment method, brand, or customer name.  
 - ✅ **City-wise Sales Map** – Visual representation of sales distribution across India.  
 - ✅ **Trend Analysis** – Track monthly sales quantities.  
