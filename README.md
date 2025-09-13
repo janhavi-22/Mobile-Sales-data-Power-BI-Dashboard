@@ -24,7 +24,7 @@ UPI and Debit Cards are the most popular payment methods.
 Saturday has the highest sales (₹115M).  
 Top mobile models include iPhone SE, OnePlus Nord, and Galaxy Note.
 
- 🛠️ Tools & Technologies
+Tools & Technologies
 Power BI – For data modeling and dashboard visualization  
 Excel / SQL – Data preprocessing and transformation  
 DAX – Calculations and measures
