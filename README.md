@@ -17,20 +17,14 @@ Total Sales Overview – ₹769M across 19K quantities and 4K transactions.
 ✅ Day-wise Sales – See which days generate the highest sales.  
 ✅ Brand & Model Analysis – Apple, OnePlus, Samsung, Vivo, Xiaomi sales comparison.
 
-## 📈 Key Insights
-- **Apple** leads sales with ₹161M across 3,932 units.  
-- **July** recorded the highest total quantity (1,700 units).  
-- **UPI** and **Debit Cards** are the most popular payment methods.  
-- **Saturday** has the highest sales (₹115M).  
-- Top mobile models include **iPhone SE, OnePlus Nord, and Galaxy Note**.
+ Key Insights
+Apple leads sales with ₹161M across 3,932 units.  
+July recorded the highest total quantity (1,700 units).  
+UPI and Debit Cards are the most popular payment methods.  
+Saturday has the highest sales (₹115M).  
+Top mobile models include iPhone SE, OnePlus Nord, and Galaxy Note.
 
----
-
-## 🛠️ Tools & Technologies
-- **Power BI** – For data modeling and dashboard visualization  
-- **Excel / SQL** – Data preprocessing and transformation  
-- **DAX** – Calculations and measures  
-
----
-
-
+ 🛠️ Tools & Technologies
+Power BI – For data modeling and dashboard visualization  
+Excel / SQL – Data preprocessing and transformation  
+DAX – Calculations and measures
