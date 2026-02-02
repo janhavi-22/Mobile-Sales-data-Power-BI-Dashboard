@@ -17,7 +17,7 @@ Total Sales Overview – ₹769M across 19K quantities and 4K transactions.
 ✅ Day-wise Sales – See which days generate the highest sales.  
 ✅ Brand & Model Analysis – Apple, OnePlus, Samsung, Vivo, Xiaomi sales comparison.
 
- Key Insights    dufhhuerifjoepkqdjshcdyeudjschwyrt47r4387to05y857rdbdnjcndfiorogpdofishbea3y26rgdhfdskgmh9irtugfvesfsukffjsio49
+ Key Insights    dufhhuerifjoepkqdjshcdyeudjschwyrt47r4387to05y857rdbdnjcndfiorogpdofishbea3y26rgdhfds
 Apple leads sales with ₹161M across 3,932 units.  
 July recorded the highest total quantity (1,700 units).  
 UPI and Debit Cards are the most popular payment methods.  
