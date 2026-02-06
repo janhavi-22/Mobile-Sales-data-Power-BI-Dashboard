@@ -4,7 +4,7 @@ This project is an interactive Power BI dashboard that provides insights into Mo
 It helps track total sales, quantity, transactions, and customer ratings with clear visualizations.
 
 
-  Dashboard Preview   chysdbdryewgty64ewgdyehfurhy74r62389e23u84e74t67548t9y9iu8w3rhuhnfsbncbgfwedfyur36etdjdjioegf
+  Dashboard Preview   chysdbdryewgty64ewgdyehfurhy74r62389e23u84e74t67548t9y9iu8w3rhuhnfsbncbgfwedfyur36e
 [Motorola Dashboard](Screenshot%202025-09-11%20133158.png)       
 
   Features
