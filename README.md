@@ -8,7 +8,7 @@ It helps track total sales, quantity, transactions, and customer ratings with cl
 [Motorola Dashboard](Screenshot%202025-09-11%20133158.png)       
 
   Features
-Total Sales Overview – ₹769M across 19K quantities and 4K transactions. juhefeyw6tr47rui9tg5ogjneihfe7r340t-43rfuwfbchreyhf7yrf7uwrhdfeuwfhncruhfy286te3ywhefeuwh
+Total Sales Overview – ₹769M across 19K quantities and 4K transactions. juhefeyw6tr47rui9tg5ogjneihfe7r340t-43rfuwfbchreyhf7yrf7uwrhdfeuwfhncruhfy286te3ywhe
 ✅ Filters – Analyze by month, mobile model, payment method, brand, or customer name.
 ✅ City-wise Sales Map – Visual representation of sales distribution across India.  
 ✅Trend Analysis – Track monthly sales quantities.  
