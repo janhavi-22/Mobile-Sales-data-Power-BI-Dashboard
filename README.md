@@ -5,7 +5,7 @@ It helps track total sales, quantity, transactions, and customer ratings with cl
 
 
   Dashboard Preview   
-[Motorola Dashboard](Screenshot%202025-09-11%20133158.png)       rhufrhegr6347r5ot40toejfjsfuwehdywgdyqgedwdgwedhbukiwyr74ryh3hfnweifhfnkfjewr99tigktrgolrg
+[Motorola Dashboard](Screenshot%202025-09-11%20133158.png)       rhufrhegr6347r5ot40toejfjsfuwehdywgdyqgedwdgwedhbukiwyr74ryh3hfnweifhfnkfjewr99tig
 
   Features
 Total Sales Overview – ₹769M across 19K quantities and 4K transaction
